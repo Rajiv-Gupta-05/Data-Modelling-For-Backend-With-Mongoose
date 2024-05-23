@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This repository provides examples and best practices for setting up and managing data models in a Node.js application using Mongoose. Mongoose is a powerful ODM (Object Data Modeling) library for MongoDB and Node.js, making it easier to define schemas and interact with MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajiv-Gupta-05/Data-Modelling-For-Backend-With-Mongoose.git"
+  },
+  "author": "Rajiv Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajiv-Gupta-05/Data-Modelling-For-Backend-With-Mongoose/issues"
+  },
+  "homepage": "https://github.com/Rajiv-Gupta-05/Data-Modelling-For-Backend-With-Mongoose#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
